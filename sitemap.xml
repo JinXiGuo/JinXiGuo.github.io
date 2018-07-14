@@ -2,30 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/about/index.html</loc>
+    <loc>http://yoursite.com/2018/07/14/mysql%E5%85%8D%E5%AE%89%E8%A3%85%E7%89%88%E9%85%8D%E7%BD%AE/</loc>
     
-    <lastmod>2018-07-14T06:40:54.458Z</lastmod>
+    <lastmod>2018-07-14T07:42:52.506Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2018/07/14/spring%E7%9A%84%E4%BB%BB%E5%8A%A1%E8%AE%A1%E5%88%92spring-Task/</loc>
+    
+    <lastmod>2018-07-14T07:14:26.518Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/tags/index.html</loc>
     
-    <lastmod>2018-07-13T06:31:41.801Z</lastmod>
+    <lastmod>2018-07-14T07:12:23.588Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2018/07/14/fastdfs/</loc>
+    
+    <lastmod>2018-07-14T07:11:01.223Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/categories/index.html</loc>
     
-    <lastmod>2018-07-13T06:31:32.749Z</lastmod>
+    <lastmod>2018-07-14T07:02:20.189Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/about/index.html</loc>
+    
+    <lastmod>2018-07-14T07:01:25.902Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/2018/07/12/linux%E5%AE%89%E8%A3%85jdk/</loc>
     
-    <lastmod>2018-07-12T09:17:42.526Z</lastmod>
+    <lastmod>2018-07-14T06:59:40.453Z</lastmod>
     
   </url>
   
